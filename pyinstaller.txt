@@ -1,0 +1,1 @@
+pyinstaller.exe -D --collect-all mediapipe -n "Virtual Mouse" --icon=hand.ico --windowed thesis1.py
